@@ -5,7 +5,6 @@
   <body>
     <img src="cat.jpg" />
     <img src="cat2.jpg" />
-    <a href="http://www.it.kmitl.ac.th">This is a Link</a>
-    <h></h>
+    <a href="http://www.youtube.com">This is a Link</a>
   </body>
 </html>
